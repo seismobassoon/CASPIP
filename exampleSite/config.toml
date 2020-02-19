@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://caspip2020.netlify.com"
+baseURL = "https://caspip.netlify.com"
 title = "CASPIP workshop"
 theme = "CASPIP"
 # post pagination
