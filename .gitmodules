@@ -1,0 +1,3 @@
+[submodule "themes/caspip"]
+	path = themes/caspip
+	url = https://github.com/seismobassoon/CASPIP.git
